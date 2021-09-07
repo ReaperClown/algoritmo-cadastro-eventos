@@ -2,7 +2,7 @@
 
 <hr>
 
-<img src="images/algoritmo-cadastro-eventos.drawio.png">
+<img src="images/algoritmo-cadastro-eventos.jpg">
   
 Veja o algoritmo completo <a href="https://tinyurl.com/cadastro-eventos-savinis">aqui</a>.
 
