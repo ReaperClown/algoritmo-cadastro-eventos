@@ -4,5 +4,5 @@
 
 <img src="images/algoritmo-cadastro-eventos.drawio.png">
   
-Veja o algoritmo completo <a href="https://tinyurl.com/algoritmo-savinis">aqui</a>.
+Veja o algoritmo completo <a href="https://tinyurl.com/flowchart-savinis">aqui</a>.
 
